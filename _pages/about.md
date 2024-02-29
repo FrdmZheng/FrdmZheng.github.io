@@ -17,42 +17,51 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+刘成龙，同济大学副教授，上海市启明星科技人才，中国公路学会青年托举人才，上海市公路学会养护与管理专委会委员。主要从事道路工程与信息工程交叉方向研究，建立了路面行驶质量轻量化检测技术与高频多维的道路服役状态精细化评价方法，提出了基于细粒度时空数据的道路基础设施管养优化理论，推动了以“轻量化快速巡检”为特征的道路设施数字化管养技术转型。研究成果在Transport Res. C、IEEE Trans. ITS、CACAIE、中国公路学报等高水平期刊发表研究论文50余篇，多篇论文入选ESI高被引论文、IEEE ITSM封面论文、中国公路学报热点论文、交通部重大科技创新成果、COTA Best Presentation Award等。相关成果获中国、美国、英国、国际专利PCT20余项，核心专利获中国专利优秀奖、上海市百强高价值专利。多项成果实现了产业化应用，覆盖全国二十余省份应用里程超15万公里。作为主要完成人获得上海市科技进步一等奖、中国公路学会科学技术一等奖、中国发明协会发明创新一等奖、江西公路科技进步一等奖等科技奖项。
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2010.09 - 2014.06, Bachelor of Traffic Engineering [Tongji University](https://www.tongji.edu.cn/), Shanghai.
+- *2017.09 - 2018.09, Joint Ph.D. Program in Civil and Environmental Engineering [University of Washington](https://www.washington.edu/), Shanghai.
+- *2014.09 - 2019.06, Ph.D. in Transportation Engineering [Tongji University](https://www.tongji.edu.cn/), Shanghai.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💻 Professional Experiences
+- *2019.12 - 2022.12, Postdoctoral Researcher [Tongji University](https://www.tongji.edu.cn/), Shanghai.
+- *2023.02 - Present, Associate Professor [Tongji University](https://www.tongji.edu.cn/), Shanghai.
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 🔍 Projects
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022.04 - 2023.04</div><img src='images/EIPA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+This project is built upon the collaboration between the Shanghai Research Institute for Intelligent Autonomous Systems and GAITECH ROBOTICS in research and development. It revolves around the RIAODO intelligent platform and associated components such as smart lamp posts, aiming to create a distributed air pollution monitoring system. The system will deploy and establish a minute-level basic wind field model. It will incorporate functions such as monitoring data fitting within the pollution range, calculation of pollution diffusion centers, GIS visualization platform for outputting three-dimensional positions of pollution sources, microgram-level precise monitoring, wide-scale deployment with coordinated operation, and long-distance information flow interaction capabilities.
+</div>
+</div>
+
+# 📝 Publications 
+📃 Papers
+- Edge Intelligent Perception Agents for Smart City Field Application, Zhongpan Zhu, Hanlin Yang, Qiwei Du, Zhipeng Wang, Dekang Zhu, Viswanath Goud Bellam, Fenggui Chang, Gang Li, **ICCCR 2022**
+
+📚 Patents
+
+
+# 🏆 Honors and Awards
+🏅 Honors
+- *2023.12* The First Prize Scholarship in Tongji University.
+- *2023.12* Undergraduate Social Activity Scholarship in Tongji University.
+- *2023.12* Excellent Student Cadre in Tongji University.
+- *2022.12* The Second Prize Scholarship in Tongji University.
+- *2022.12* Undergraduate Social Activity Scholarship in Tongji University.
+- *2022.12* Outstanding Student in Tongji University.
+- *2021.12* Undergraduate Social Activity Scholarship in Tongji University.
+
+🎏 Competitions
+- *2023.06* National Innovation Experience Competition for College Students National Third Prize.
+- *2022.11* China Intelligent Robot Combat Competition National First Prize.
+- *2022.11* National Undergraduate Electronics Design Contest Provincial Third Prize.
+- *2022.11* Mathematical Contest in Modeling Provincial First Prize.
+- *2022.08* China-US Young Maker Competition Provincial First Prize. 
+- *2022.07* E-commerce “Innovation, Creativity, and Entrepreneurship” Challenge Provincial First Prize. 
+
+# 💼 Societies
+- *2020.09 - 2021.06*, Youth League Committee Officer in Tongji University.
+- *2020.09 - 2024.06*, Class League Secretary in Tongji University.
+- *2022.09 - 2023.06*, Head of the VEX Laboratory in Tongji University
+- *2022.04 - 2023.04*, First Responsible Person of a Shanghai Municipal College Students' Innovation and Entrepreneurship Project
