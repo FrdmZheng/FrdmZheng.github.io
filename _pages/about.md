@@ -47,7 +47,7 @@ Rough pavements cause ride discomfort and energy inefficiency for road vehicles.
 
 # 📝 Publications 
 📃 Papers
-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Journal of Pavement Engineering 2024</div></div>Fast calibration for vibration-based pavement roughness measurement based on model updating of vehicle dynamics, Difei Wu, **Chenglong Liu**, Bohao Qin, Sheng Zhong, Xiaoming Zhang, Yuchuan Du</div></div>
+- <div class='paper-box'><div class="badge">International Journal of Pavement Engineering 2024</div>Fast calibration for vibration-based pavement roughness measurement based on model updating of vehicle dynamics, Difei Wu, **Chenglong Liu**, Bohao Qin, Sheng Zhong, Xiaoming Zhang, Yuchuan Du</div>
 - Advances in automatic identification of road subsurface distress using ground penetrating radar: State of the art and future trends, **Chenglong Liu**, Yuchuan Du, Guanghua Yue, Yishun Li, Difei Wu, Feng Li, **Automation in Construction**
 - Fine-Grained Pavement Performance Prediction Based on Causal-Temporal Graph Convolution Networks, Wenyuan Cai, Andi Song, Yuchuan Du, **Chenglong Liu**, Difei Wu, Feng Li, **IEEE transactions on intelligent transportation systems**
 - Differences evaluation of pavement roughness distribution based on light detection and ranging data, Qian Gao,Lei Fan,Siyu Wei,Yishun Li,Yuchuan Du, **Chenglong Liu**, **Applied Sciences**
