@@ -20,13 +20,13 @@ redirect_from:
 刘成龙，同济大学副教授，上海市启明星科技人才，中国公路学会青年托举人才，上海市公路学会养护与管理专委会委员。主要从事道路工程与信息工程交叉方向研究，建立了路面行驶质量轻量化检测技术与高频多维的道路服役状态精细化评价方法，提出了基于细粒度时空数据的道路基础设施管养优化理论，推动了以“轻量化快速巡检”为特征的道路设施数字化管养技术转型。研究成果在Transport Res. C、IEEE Trans. ITS、CACAIE、中国公路学报等高水平期刊发表研究论文50余篇，多篇论文入选ESI高被引论文、IEEE ITSM封面论文、中国公路学报热点论文、交通部重大科技创新成果、COTA Best Presentation Award等。相关成果获中国、美国、英国、国际专利PCT20余项，核心专利获中国专利优秀奖、上海市百强高价值专利。多项成果实现了产业化应用，覆盖全国二十余省份应用里程超15万公里。作为主要完成人获得上海市科技进步一等奖、中国公路学会科学技术一等奖、中国发明协会发明创新一等奖、江西公路科技进步一等奖等科技奖项。
 
 # 📖 Educations
-- *2010.09 - 2014.06, Bachelor of Traffic Engineering [Tongji University](https://www.tongji.edu.cn/), Shanghai.
-- *2017.09 - 2018.09, Joint Ph.D. Program in Civil and Environmental Engineering [University of Washington](https://www.washington.edu/), Shanghai.
-- *2014.09 - 2019.06, Ph.D. in Transportation Engineering [Tongji University](https://www.tongji.edu.cn/), Shanghai.
+- *2010.09 - 2014.06, [同济大学](https://www.tongji.edu.cn/), 交通工程, 学士
+- *2017.09 - 2018.09, [华盛顿大学](https://www.washington.edu/), 土木环境工程, 联合培养博士
+- *2014.09 - 2019.06, [同济大学](https://www.tongji.edu.cn/), 交通运输工程, 博士.
 
 # 💻 Professional Experiences
-- *2019.12 - 2022.12, Postdoctoral Researcher [Tongji University](https://www.tongji.edu.cn/), Shanghai.
-- *2023.02 - Present, Associate Professor [Tongji University](https://www.tongji.edu.cn/), Shanghai.
+- *2019.12 - 2022.12, [同济大学](https://www.tongji.edu.cn/), 交通运输工程学院, 博士后.
+- *2023.02 - 至今   , [同济大学](https://www.tongji.edu.cn/), 交通运输工程学院, 副教授.
 
 # 🔍 Projects
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022.04 - 2023.04</div><img src='images/EIPA.png' alt="sym" width="100%"></div></div>
@@ -37,7 +37,8 @@ This project is built upon the collaboration between the Shanghai Research Insti
 
 # 📝 Publications 
 📃 Papers
-- Edge Intelligent Perception Agents for Smart City Field Application, Zhongpan Zhu, Hanlin Yang, Qiwei Du, Zhipeng Wang, Dekang Zhu, Viswanath Goud Bellam, Fenggui Chang, Gang Li, **ICCCR 2022**
+- Fast calibration for vibration-based pavement roughness measurement based on model updating of vehicle dynamics, Difei Wu, **Chenglong Liu***, Bohao Qin, Sheng Zhong, Xiaoming Zhang, Yuchuan Du, **International Journal of Pavement Engineering**
+- Advances in automatic identification of road subsurface distress using ground penetrating radar: State of the art and future trends, **Chenglong Liu**, Yuchuan Du, Guanghua Yue, Yishun Li, Difei Wu, Feng Li, **Automation in Construction**
 
 📚 Patents
 
