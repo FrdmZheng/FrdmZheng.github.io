@@ -37,32 +37,36 @@ This project is built upon the collaboration between the Shanghai Research Insti
 
 # 📝 Publications 
 📃 Papers
-- Fast calibration for vibration-based pavement roughness measurement based on model updating of vehicle dynamics, Difei Wu, **Chenglong Liu***, Bohao Qin, Sheng Zhong, Xiaoming Zhang, Yuchuan Du, **International Journal of Pavement Engineering**
+- Fast calibration for vibration-based pavement roughness measurement based on model updating of vehicle dynamics, Difei Wu, **Chenglong Liu**, Bohao Qin, Sheng Zhong, Xiaoming Zhang, Yuchuan Du, **International Journal of Pavement Engineering**
 - Advances in automatic identification of road subsurface distress using ground penetrating radar: State of the art and future trends, **Chenglong Liu**, Yuchuan Du, Guanghua Yue, Yishun Li, Difei Wu, Feng Li, **Automation in Construction**
 
-📚 Patents
-
+# 📚 Patents
+- 一种基于三维纹理特征的沥青路面混合料级配预估方法(ZL202110211816.9)
+- 一种基于实时需求的无人驾驶公交派车方法(ZL202010755992.4)
+- 一种基于关联规则分析的道路深层病害预警方法(ZL202110215728.6)
+- A method for leakage detection of underground corridor based on static infrared thermal image processing(GB2569751)
+- Comfort-based self-driving planning method(US 11,447,150 B2)
+- Method of controlling automated driving speed based on comfort level(WO/2018/122586)
 
 # 🏆 Honors and Awards
 🏅 Honors
-- *2023.12* The First Prize Scholarship in Tongji University.
-- *2023.12* Undergraduate Social Activity Scholarship in Tongji University.
-- *2023.12* Excellent Student Cadre in Tongji University.
-- *2022.12* The Second Prize Scholarship in Tongji University.
-- *2022.12* Undergraduate Social Activity Scholarship in Tongji University.
-- *2022.12* Outstanding Student in Tongji University.
-- *2021.12* Undergraduate Social Activity Scholarship in Tongji University.
+- *2023* 中国交通协会科技进步奖
+- *2023* 中国交通协会科技进步奖
+- *2023* 《中国公路学报》年度优秀论文
+- *2023* 联合国报告证明
+- *2023* 高PCSI、高被引、高下载论文
 
-🎏 Competitions
-- *2023.06* National Innovation Experience Competition for College Students National Third Prize.
-- *2022.11* China Intelligent Robot Combat Competition National First Prize.
-- *2022.11* National Undergraduate Electronics Design Contest Provincial Third Prize.
-- *2022.11* Mathematical Contest in Modeling Provincial First Prize.
-- *2022.08* China-US Young Maker Competition Provincial First Prize. 
-- *2022.07* E-commerce “Innovation, Creativity, and Entrepreneurship” Challenge Provincial First Prize. 
+🎏 Foundations
+- *2023* 上海市科技创新行动计划-道路基础设施多维体征的数字化感知与评价方法研究
+- *2022* 国家重点研发计划-智能网联道路交通系统的能源自洽技术
+- *2023* 同济大学交叉学科项目-知识-数据协同驱动的精细化道路养护策略生成方法
+- *2023* 国家自然基金青年项目-众筹数据驱动的城市路网平整度感知方法研究
 
 # 💼 Societies
-- *2020.09 - 2021.06*, Youth League Committee Officer in Tongji University.
-- *2020.09 - 2024.06*, Class League Secretary in Tongji University.
-- *2022.09 - 2023.06*, Head of the VEX Laboratory in Tongji University
-- *2022.04 - 2023.04*, First Responsible Person of a Shanghai Municipal College Students' Innovation and Entrepreneurship Project
+- *2023*, 上海青年科技启明星
+- *2022*, 中国公路学会青年托举人才
+- *2019*, 上海市超级博士后
+- 联合国亚太经济社会组织咨询专家（Transport Division）
+- 世界交通运输大会数字化运维技术委员会 秘术委员
+- 上海市公路学会公路养护与运行专委会委员
+
