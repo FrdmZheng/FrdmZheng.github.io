@@ -47,14 +47,14 @@ Rough pavements cause ride discomfort and energy inefficiency for road vehicles.
 
 # 📝 Publications 
 📃 Papers
-- ``International Journal of Pavement Engineering 2024``Fast calibration for vibration-based pavement roughness measurement based on model updating of vehicle dynamics, Difei Wu, **Chenglong Liu**, Bohao Qin, Sheng Zhong, Xiaoming Zhang, Yuchuan Du
-- Advances in automatic identification of road subsurface distress using ground penetrating radar: State of the art and future trends, **Chenglong Liu**, Yuchuan Du, Guanghua Yue, Yishun Li, Difei Wu, Feng Li, **Automation in Construction**
-- Fine-Grained Pavement Performance Prediction Based on Causal-Temporal Graph Convolution Networks, Wenyuan Cai, Andi Song, Yuchuan Du, **Chenglong Liu**, Difei Wu, Feng Li, **IEEE transactions on intelligent transportation systems**
-- Differences evaluation of pavement roughness distribution based on light detection and ranging data, Qian Gao,Lei Fan,Siyu Wei,Yishun Li,Yuchuan Du, **Chenglong Liu**, **Applied Sciences**
-- 基于LiDAR三维数据的路面平整度横向分布差异特性评估方法, **刘成龙**, 魏斯瑀, 高倩, 吴荻非, 曹静, 杜豫川, **交通运输研究**
-- Modeling automatic pavement crack object detection and pixel-level segmentation, Yuchuan Du, Shan Zhong, Hongyuan Fang, Niannian Wang, **Chenglong Liu**, Difei Wu, Yan Sun, Mang Xiang, **Automation in Construction**
-- Enabling Edge Computing Ability in View-Independent Vehicle Model Recognition, **Chenglong Liu**, Ziyuan Pu, Yishun Li, Ying Jiang, Yinhai Wang, Yuchuan Du, **IJTST**
-- 探地雷达多特征融合的城市空洞自动识别方法研究, 杜豫川, 岳光华, **刘成龙**, 李峰, 蔡文才, **中国公路学报**
+- ``International Journal of Pavement Engineering 2024`` Fast calibration for vibration-based pavement roughness measurement based on model updating of vehicle dynamics, Difei Wu, **Chenglong Liu**, Bohao Qin, Sheng Zhong, Xiaoming Zhang, Yuchuan Du
+- ``Automation in Construction 2024`` Advances in automatic identification of road subsurface distress using ground penetrating radar: State of the art and future trends, **Chenglong Liu**, Yuchuan Du, Guanghua Yue, Yishun Li, Difei Wu, Feng Li
+- ``IEEE transactions on intelligent transportation systems 2023`` Fine-Grained Pavement Performance Prediction Based on Causal-Temporal Graph Convolution Networks, Wenyuan Cai, Andi Song, Yuchuan Du, **Chenglong Liu**, Difei Wu, Feng Li
+- ``Applied Sciences 2023`` Differences evaluation of pavement roughness distribution based on light detection and ranging data, Qian Gao,Lei Fan,Siyu Wei,Yishun Li,Yuchuan Du, **Chenglong Liu**
+- ``交通运输研究 2023`` 基于LiDAR三维数据的路面平整度横向分布差异特性评估方法, **刘成龙**, 魏斯瑀, 高倩, 吴荻非, 曹静, 杜豫川
+- ``Automation in Construction 2023`` Modeling automatic pavement crack object detection and pixel-level segmentation, Yuchuan Du, Shan Zhong, Hongyuan Fang, Niannian Wang, **Chenglong Liu**, Difei Wu, Yan Sun, Mang Xiang
+- ``IJTST 2023`` Enabling Edge Computing Ability in View-Independent Vehicle Model Recognition, **Chenglong Liu**, Ziyuan Pu, Yishun Li, Ying Jiang, Yinhai Wang, Yuchuan Du
+- ``中国公路学报 2023`` 探地雷达多特征融合的城市空洞自动识别方法研究, 杜豫川, 岳光华, **刘成龙**, 李峰, 蔡文才
 
 # 📚 Patents
 - 一种基于三维纹理特征的沥青路面混合料级配预估方法(ZL202110211816.9)
