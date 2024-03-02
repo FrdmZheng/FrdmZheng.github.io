@@ -90,7 +90,7 @@ We proposed a speed control framework on rough pavement based on the crowdsource
 - *2023* 中国公路学会科学技术奖特等奖 长距离高速公路智能建造与运维关键技术研究及应用
 - *2023* 上海市公路学会科技进步奖二等奖
 
-🎏 Foundations
+📚 Foundations
 - *2023* 上海市科技创新行动计划-道路基础设施多维体征的数字化感知与评价方法研究
 - *2023* 国家重点研发计划-智能网联道路交通系统的能源自洽技术
 - *2023* 同济大学交叉学科项目-知识-数据协同驱动的精细化道路养护策略生成方法
