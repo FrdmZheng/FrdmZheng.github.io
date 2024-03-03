@@ -41,7 +41,7 @@ redirect_from:
 
 # 📝 Publications 
 📃 Papers
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 International Journal of Pavement Engineering
 
@@ -52,7 +52,7 @@ Difei Wu, **Chenglong Liu**,Bohao Qin, Sheng Zhong, Xiaoming Zhang, Yuchuan Du
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Automation in Construction
 
@@ -63,15 +63,156 @@ Automation in Construction
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 IEEE transactions on intelligent transportation systems
 
-[Fine-Grained Pavement Performance Prediction Based on Causal-Temporal Graph Convolution Networks](https://www.sciencedirect.com/science/article/pii/S0926580523004454)
+[Fine-Grained Pavement Performance Prediction Based on Causal-Temporal Graph Convolution Networks](https://ieeexplore.ieee.org/abstract/document/10311071)
 
 Wenyuan Cai, Andi Song, Yuchuan Du, **Chenglong Liu\***, Difei Wu, Feng Li
 
+</div>
+</div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='images/4.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Computer‐Aided Civil and Infrastructure Engineering
+
+[Spatiotemporal matching method for tracking pavement distress using high-frequency detection data](https://onlinelibrary.wiley.com/doi/abs/10.1111/mice.12947)
+
+Ning Pan, Hao Liu, Difei Wu, **Chenglong Liu**, Yuchuan Du
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='images/5.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Computer‐Aided Civil and Infrastructure Engineering
+
+[Effective pavement skid resistance measurement using multi-scale textures and deep fusion network](https://onlinelibrary.wiley.com/doi/abs/10.1111/mice.12931)
+
+**Chenglong Liu**, Nan Xu, Zihang Weng, Yishun Li, Yuchuan Du, Jing Cao
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/6.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+International Journal of Transportation Science and Technology(IJTST)
+
+[Enabling edge computing ability in view-independent vehicle model recognition](https://www.sciencedirect.com/science/article/pii/S204604302300028X)
+
+**Chenglong Liu**, Ziyuan Pu, Yishun Li, Ying Jiang, Yinhai Wang, Yuchuan Du
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/7.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+中国公路学报
+
+[探地雷达多特征融合的城市空洞自动识别方法研究](https://kns.cnki.net/kcms2/article/abstract?v=N5T8oFSaxGEJhL0CJQuYYdj0jekwNRpkOf29RxPE4BCzD9g-XHdsGhYbW-c6DBruvU4dl-YCoKnJU7AT2WPe1rBVj4vEwIh1DHjQBNQLSyq1ncGSIwsqahPqO6Rw6DvHkUI6K7QdBIqOTug69e80CQ==&uniplatform=NZKPT&language=CHS)
+
+杜豫川, 岳光华, **刘成龙\***, 李峰, 蔡文才
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='images/8.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Automation in Construction
+
+[Deep learning-based pavement subsurface distress detection via ground penetrating radar data](https://www.sciencedirect.com/science/article/pii/S0926580522003892)
+
+Yishun Li, **Chenglong Liu\***, Guanghua Yue, Qian Gao, Yuchuan Du
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='images/9.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+IEEE transactions on intelligent transportation systems
+
+[ConTrack Distress Dataset: A Continuous Observation for Pavement Deterioration Spatio-Temporal Analysis](https://ieeexplore.ieee.org/abstract/document/9899382)
+
+Yishun Li, **Chenglong Liu\***, Qian Gao, Difei Wu, Feng Li, Yuchuan Du
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='images/10.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+IEEE transactions on intelligent transportation systems
+
+[A Response-Type Road Anomaly Detection and Evaluation Method for Steady Driving of Automated Vehicles](https://ieeexplore.ieee.org/abstract/document/9805658)
+
+**Chenglong Liu**, Tong Nie, Yuchuan Du, Jing Cao, Difei Wu, Feng Li
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='images/11.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Automation in Construction
+
+[Pavement texture depth estimation using image-based multiscale features](https://www.sciencedirect.com/science/article/pii/S0926580522002771)
+
+Zihang Weng, Hui Xiang, Yuchao Lin, **Chenglong Liu**, Difei Wu, Yuchuan Du
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='images/12.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+中国公路学报
+
+[高速路网不停车收费车道优化布设方法](https://kns.cnki.net/kcms2/article/abstract?v=N5T8oFSaxGE5KG9OjMOws3MUL1wgDrlkfSj89QJrhfeWkrI2EhlezFAV_l19Bb0k_UV3okDPJjxg-14f6Anke1h9s5ZHoqwCwOJ2yJ-ORt72EXFVJYd2sDNG5eSZWZGdQOs_aPtVVCseO6NWVDoqeQ==&uniplatform=NZKPT&language=CHS)
+
+**刘成龙**, 陶莎, 赵聪, 暨育雄, 杜豫川
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2020</div><img src='images/13.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+International Journal of Pavement Engineering
+
+[Mathematical insights into the relationship between pavement roughness and vehicle vibration](https://www.tandfonline.com/doi/abs/10.1080/10298436.2020.1830092)
+
+**Chenglong Liu**, Difei Wu, Yishun Li, Shengchuan Jiang, Yuchuan Du
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='images/14.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+中国公路学报
+
+[新一代智慧高速公路系统架构设计](https://kns.cnki.net/kcms2/article/abstract?v=N5T8oFSaxGGw0wHSNKMvp4f2OMptvhq4A-cUocNQMXwE6VPu6ym5UDzZd4tu70FeQSz2xd43pjx2YQREQL0Nh03GipYcCuM3qDjGgRjcLT6OoTePi95LBVT4vxw7kXXlKSYi8sLU0AitgIHkw0EK9w==&uniplatform=NZKPT&language=CHS)
+
+杜豫川, **刘成龙\***, 吴荻非, 赵聪
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021</div><img src='images/15.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Automation in Construction
+
+[Rapid pavement aggregate gradation estimation based on 3D data using a multi-feature fusion network](https://www.sciencedirect.com/science/article/pii/S092658052100501X)
+
+Zihang Weng, Gulnigar Ablat, Difei Wu, **Chenglong Liu\***, Feng Li, Yuchuan Du, Jing Cao
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='images/16.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Transportation Research Part C
+
+[Comfortable and energy-efficient speed control of autonomous vehicles on rough pavements using deep reinforcement learning](https://www.sciencedirect.com/science/article/pii/S0968090X21004757)
+
+Yuchuan Du, Jing Chen, Cong Zhao, **Chenglong Liu**, Feixiong Liao, Ching-Yao Chan
 
 </div>
 </div>
