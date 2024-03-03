@@ -26,9 +26,12 @@ redirect_from:
 
 # 💻 Professional Experiences
 - *2019.12 - 2022.12*, [同济大学](https://www.tongji.edu.cn/), 交通运输工程学院, 博士后.
+- *2021.05 - 至今*,    [同济大学](https://www.tongji.edu.cn/), 交通科学与技术研究院, 副教授
 - *2023.02 - 至今*   , [同济大学](https://www.tongji.edu.cn/), 交通运输工程学院, 副教授.
+- *2024.01 - 至今* ,   [同济大学](https://www.tongji.edu.cn/), 交通运输工程学院, 副院长
 
-# 🔍 Projects
+# 📝 Publications 
+📃 Papers
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Cross-scene pavement distress detection by a novel transfer learning framework](https://onlinelibrary.wiley.com/doi/abs/10.1111/mice.12674)
@@ -59,8 +62,6 @@ We proposed a speed control framework on rough pavement based on the crowdsource
 </div>
 </div>
 
-# 📝 Publications 
-📃 Papers
 - ``International Journal of Pavement Engineering 2024`` Fast calibration for vibration-based pavement roughness measurement based on model updating of vehicle dynamics, Difei Wu, **Chenglong Liu**, Bohao Qin, Sheng Zhong, Xiaoming Zhang, Yuchuan Du
 - ``Automation in Construction 2024`` Advances in automatic identification of road subsurface distress using ground penetrating radar: State of the art and future trends, **Chenglong Liu**, Yuchuan Du, Guanghua Yue, Yishun Li, Difei Wu, Feng Li
 - ``IEEE transactions on intelligent transportation systems 2023`` Fine-Grained Pavement Performance Prediction Based on Causal-Temporal Graph Convolution Networks, Wenyuan Cai, Andi Song, Yuchuan Du, **Chenglong Liu**, Difei Wu, Feng Li
