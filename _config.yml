@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "刘成龙"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "同济大学副教授""交通科学与技术研究院副院长"
+  bio              : "同济大学副教授\n交通科学与技术研究院副院长"
   location         : "通达馆A414"
   interest         : "研究方向：智能交通基础设施、路面性能检测与评估、养护决策与优化等"
   employer         : 
