@@ -1,4 +1,4 @@
----
+![D0)Q$W1@ZP$7W@NTBPT8B}J](https://github.com/Charley33301/Charley33301.github.io/assets/161674990/a274cccf-4e6a-4978-8ee9-ad3dc77bd244)---
 permalink: /
 title: ""
 excerpt: ""
@@ -81,20 +81,20 @@ We proposed a speed control framework on rough pavement based on the crowdsource
 
 # 🏆 Honors and Awards
 🏅 Honors
-- *2023* 中国交通协会科技进步一等奖 高速公路数智养护与决策平台建设关键技术研究及开发
-- *2023* 中国交通协会科技进步二等奖 北部湾湿热地区沥青路面病害智能识别与功能提升关键技术及应用
-- *2023* 《中国公路学报》年度优秀论文二等奖
-- *2023* 联合国报告证明 Supporting the policies on green and resilient transport infrastructure along the Asian Highway Network
-- *2023* 高PCSI、高被引、高下载论文 新一代智慧高速公路系统架构设计
+- 🔥`New！`*2023* 中国交通协会科技进步一等奖 高速公路数智养护与决策平台建设关键技术研究及开发
+- 🔥`New！`*2023* 中国交通协会科技进步二等奖 北部湾湿热地区沥青路面病害智能识别与功能提升关键技术及应用
+- 🔥`New！`*2023* 《中国公路学报》年度优秀论文二等奖
+- 🔥`New！`*2023* 联合国报告证明 Supporting the policies on green and resilient transport infrastructure along the Asian Highway Network
+- 🔥`New！`*2023* 高PCSI、高被引、高下载论文 新一代智慧高速公路系统架构设计
 - *2023* 同济大学研究生先生精品课程 交通数据分析与应用
 - *2023* 上海产学研合作优秀项目奖三等奖 道路多维高频检测装备和智能养护技术及应用
 - *2023* 中国公路学会科学技术奖特等奖 长距离高速公路智能建造与运维关键技术研究及应用
 - *2023* 上海市公路学会科技进步奖二等奖
 
 📚 Foundations
-- *2023* 上海市科技创新行动计划-道路基础设施多维体征的数字化感知与评价方法研究
-- *2023* 国家重点研发计划-智能网联道路交通系统的能源自洽技术
-- *2023* 同济大学交叉学科项目-知识-数据协同驱动的精细化道路养护策略生成方法
+- 🔥*2023* 上海市科技创新行动计划-道路基础设施多维体征的数字化感知与评价方法研究
+- 🔥*2023* 国家重点研发计划-智能网联道路交通系统的能源自洽技术
+- 🔥*2023* 同济大学交叉学科项目-知识-数据协同驱动的精细化道路养护策略生成方法
 - *2021* 国家自然基金青年项目-众筹数据驱动的城市路网平整度感知方法研究
 
 # 💼 Societies
