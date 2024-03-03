@@ -31,13 +31,13 @@ redirect_from:
 - *2024.01 - 至今* ,   [同济大学](https://www.tongji.edu.cn/), 交通运输工程学院, 副院长.
 
 # 🔍 Projects
-- 🔥`New！`*2023*国家重点研发计划, 智能网联道路交通系统的能源自洽技术, 子课题主持
-- 🔥`New！`*2022*国家重点研发计划, 弹性交通系统信息物理体系构建, 子课题主持
-- *2019*国家重点研发计划, 港珠澳大桥智能化运维技术集成应用, 项目骨干
-- 🔥`New！`*2022*国家自然科学基金, 众筹数据驱动的城市路网平整度感知方法研究, 主持
-- 🔥`New！`*2023*上海市科技创新行动计划, 道路基础设施多维体征的数字化感知与评价方法研究, 主持
-- *2021*上海市科技创新行动计划, 复杂地下道路韧性运行与智慧防灾关键技术研究与示范, 子课题主持
-- *2021*浙江省道桥检测与养护技术研究重点实验室基金, 基于时空数据匹配的路面服役状态大数据评价技术, 主持
+- 🔥`New！`国家重点研发计划(2023), 智能网联道路交通系统的能源自洽技术, 子课题主持
+- 🔥`New！`上海市科技创新行动计划(2023), 道路基础设施多维体征的数字化感知与评价方法研究, 主持
+- 国家重点研发计划(2022), 弹性交通系统信息物理体系构建, 子课题主持
+- 国家自然科学基金(2022), 众筹数据驱动的城市路网平整度感知方法研究, 主持
+- 上海市科技创新行动计划(2021), 复杂地下道路韧性运行与智慧防灾关键技术研究与示范, 子课题主持
+- 浙江省道桥检测与养护技术研究重点实验室基金(2021), 基于时空数据匹配的路面服役状态大数据评价技术, 主持
+- 国家重点研发计划(2019), 港珠澳大桥智能化运维技术集成应用, 项目骨干
 
 # 📝 Publications 
 📃 Papers
@@ -45,7 +45,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 International Journal of Pavement Engineering
 
-[Fast calibration for vibration-based pavement roughness measurement based on model updating of vehicle dynamics](https://www.tandfonline.com/doi/abs/10.1080/10298436.2023.2287688)
+🔥`New！`[Fast calibration for vibration-based pavement roughness measurement based on model updating of vehicle dynamics](https://www.tandfonline.com/doi/abs/10.1080/10298436.2023.2287688)
 
 Difei Wu, **Chenglong Liu**,Bohao Qin, Sheng Zhong, Xiaoming Zhang, Yuchuan Du
 
@@ -56,7 +56,7 @@ Difei Wu, **Chenglong Liu**,Bohao Qin, Sheng Zhong, Xiaoming Zhang, Yuchuan Du
 <div class='paper-box-text' markdown="1">
 Automation in Construction
 
-[Advances in automatic identification of road subsurface distress using ground penetrating radar: State of the art and future trends](https://www.sciencedirect.com/science/article/pii/S0926580523004454)
+🔥`New！`[Advances in automatic identification of road subsurface distress using ground penetrating radar: State of the art and future trends](https://www.sciencedirect.com/science/article/pii/S0926580523004454)
 
 **Chenglong Liu**, Yuchuan Du, Guanghua Yue, Yishun Li, Difei Wu, Feng Li
 
@@ -67,7 +67,7 @@ Automation in Construction
 <div class='paper-box-text' markdown="1">
 IEEE transactions on intelligent transportation systems
 
-[Fine-Grained Pavement Performance Prediction Based on Causal-Temporal Graph Convolution Networks](https://ieeexplore.ieee.org/abstract/document/10311071)
+🔥`New！`[Fine-Grained Pavement Performance Prediction Based on Causal-Temporal Graph Convolution Networks](https://ieeexplore.ieee.org/abstract/document/10311071)
 
 Wenyuan Cai, Andi Song, Yuchuan Du, **Chenglong Liu\***, Difei Wu, Feng Li
 
@@ -109,7 +109,7 @@ International Journal of Transportation Science and Technology(IJTST)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/7.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-中国公路学报
+`封面热点论文`中国公路学报
 
 [探地雷达多特征融合的城市空洞自动识别方法研究](https://kns.cnki.net/kcms2/article/abstract?v=N5T8oFSaxGEJhL0CJQuYYdj0jekwNRpkOf29RxPE4BCzD9g-XHdsGhYbW-c6DBruvU4dl-YCoKnJU7AT2WPe1rBVj4vEwIh1DHjQBNQLSyq1ncGSIwsqahPqO6Rw6DvHkUI6K7QdBIqOTug69e80CQ==&uniplatform=NZKPT&language=CHS)
 
@@ -164,7 +164,7 @@ Zihang Weng, Hui Xiang, Yuchao Lin, **Chenglong Liu**, Difei Wu, Yuchuan Du
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='images/12.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-中国公路学报
+`封面热点论文`中国公路学报
 
 [高速路网不停车收费车道优化布设方法](https://kns.cnki.net/kcms2/article/abstract?v=N5T8oFSaxGE5KG9OjMOws3MUL1wgDrlkfSj89QJrhfeWkrI2EhlezFAV_l19Bb0k_UV3okDPJjxg-14f6Anke1h9s5ZHoqwCwOJ2yJ-ORt72EXFVJYd2sDNG5eSZWZGdQOs_aPtVVCseO6NWVDoqeQ==&uniplatform=NZKPT&language=CHS)
 
@@ -186,7 +186,7 @@ International Journal of Pavement Engineering
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='images/14.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-中国公路学报
+`2023年度优秀论文、封面热点论文、高被引、高下载、高影响力论文`中国公路学报
 
 [新一代智慧高速公路系统架构设计](https://kns.cnki.net/kcms2/article/abstract?v=N5T8oFSaxGGw0wHSNKMvp4f2OMptvhq4A-cUocNQMXwE6VPu6ym5UDzZd4tu70FeQSz2xd43pjx2YQREQL0Nh03GipYcCuM3qDjGgRjcLT6OoTePi95LBVT4vxw7kXXlKSYi8sLU0AitgIHkw0EK9w==&uniplatform=NZKPT&language=CHS)
 
@@ -208,11 +208,22 @@ Zihang Weng, Gulnigar Ablat, Difei Wu, **Chenglong Liu\***, Feng Li, Yuchuan Du,
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='images/16.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-`SCI`Transportation Research Part C
+`ESI(1%)`Transportation Research Part C
 
 [Comfortable and energy-efficient speed control of autonomous vehicles on rough pavements using deep reinforcement learning](https://www.sciencedirect.com/science/article/pii/S0968090X21004757)
 
 Yuchuan Du, Jing Chen, Cong Zhao, **Chenglong Liu**, Feixiong Liao, Ching-Yao Chan
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021</div><img src='images/17.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+`ESI (1%), ESI(0.1%), COTA Best Presetation Award, 交通部重大科技成果(论文类)`Transportation Research Part C: Emerging Technologies
+
+[Large-scale pavement roughness measurements with vehicle crowdsourced data using semi-supervised learning](https://www.sciencedirect.com/science/article/pii/S0968090X21000784)
+
+**Chenglong Liu**, Difei Wu, Yishun Li, Yuchuan Du
 
 </div>
 </div>
@@ -231,20 +242,14 @@ Yuchuan Du, Jing Chen, Cong Zhao, **Chenglong Liu**, Feixiong Liao, Ching-Yao Ch
 
 # 🏆 Honors and Awards
 🏅 Honors
-- 🔥`New！`*2023* 中国交通协会科技进步**一等奖** 《高速公路数智养护与决策平台建设关键技术研究及开发》
-- 🔥`New！`*2023* 《中国公路学报》年度优秀论文 《新一代智慧高速公路系统架构设计》
-- 🔥`New！`*2023* 中国公路学会科学技术奖**特等奖** 《距离高速公路智能建造与运维关键技术研究及应用》
-- 🔥`New！`*2022* 上海市百强高价值专利 《轻量化路面巡查系统》专利群，核心专利已完成300万转化
-- *2021* 中国专利优秀奖，《一种基于重力加速度传感器的路面平整度检测方法》
-- *2021* 江苏公路科技进步**一等奖**《高速公路智慧管养技术研究与应用》
-- *2020* 中国发明协会发明创新**一等奖** 《路面表观损伤智能快速巡检系统研发及应用》
-- *2019*上海市科技进步**一等奖** 《路面多维高频检测装备和智能养护技术及应用》
-- *2017*中国公路学会科学技术奖**一等奖**《轻量化沥青路面行驶质量快速检测系统》
-
-📚 Foundations
-- 🔥`New！`*2023* 上海市科技创新行动计划-道路基础设施多维体征的数字化感知与评价方法研究
-- 🔥`New！`*2023* 国家重点研发计划-智能网联道路交通系统的能源自洽技术
-- 🔥`New！`*2023* 同济大学交叉学科项目-知识-数据协同驱动的精细化道路养护策略生成方法
-- *2021* 国家自然基金青年项目-众筹数据驱动的城市路网平整度感知方法研究
+- 🔥`New！`中国交通协会科技进步**一等奖**(2023) 《高速公路数智养护与决策平台建设关键技术研究及开发》
+- 🔥`New！`中国公路学会科学技术奖**特等奖**(2023) 《距离高速公路智能建造与运维关键技术研究及应用》
+- 🔥`New！`《中国公路学报》年度**优秀论文**(2023) 《新一代智慧高速公路系统架构设计》
+- 上海市**百强高价值专利**(2022) 《轻量化路面巡查系统》专利群，核心专利已完成300万转化
+- 中国**专利优秀奖**(2021)，《一种基于重力加速度传感器的路面平整度检测方法》
+- 江苏公路科技进步**一等奖**(2021)《高速公路智慧管养技术研究与应用》
+- 中国发明协会发明创新**一等奖**(2020) 《路面表观损伤智能快速巡检系统研发及应用》
+- 上海市科技进步**一等奖**(2019) 《路面多维高频检测装备和智能养护技术及应用》
+- 中国公路学会科学技术奖**一等奖**(2017)《轻量化沥青路面行驶质量快速检测系统》
 
 
