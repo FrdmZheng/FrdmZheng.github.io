@@ -99,11 +99,4 @@ We proposed a speed control framework on rough pavement based on the crowdsource
 - 🔥*2023* 同济大学交叉学科项目-知识-数据协同驱动的精细化道路养护策略生成方法
 - *2021* 国家自然基金青年项目-众筹数据驱动的城市路网平整度感知方法研究
 
-# 💼 Societies
-- *2023*, 上海青年科技启明星
-- *2022*, 中国公路学会青年托举人才
-- *2019*, 上海市超级博士后
-- 联合国亚太经济社会组织咨询专家（Transport Division）
-- 世界交通运输大会数字化运维技术委员会 秘术委员
-- 上海市公路学会公路养护与运行专委会委员
 
