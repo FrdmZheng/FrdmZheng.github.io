@@ -109,9 +109,9 @@ International Journal of Transportation Science and Technology(IJTST)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/7.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-`封面热点论文`中国公路学报
+中国公路学报
 
-[探地雷达多特征融合的城市空洞自动识别方法研究](https://kns.cnki.net/kcms2/article/abstract?v=N5T8oFSaxGEJhL0CJQuYYdj0jekwNRpkOf29RxPE4BCzD9g-XHdsGhYbW-c6DBruvU4dl-YCoKnJU7AT2WPe1rBVj4vEwIh1DHjQBNQLSyq1ncGSIwsqahPqO6Rw6DvHkUI6K7QdBIqOTug69e80CQ==&uniplatform=NZKPT&language=CHS)
+`封面热点论文`[探地雷达多特征融合的城市空洞自动识别方法研究](https://kns.cnki.net/kcms2/article/abstract?v=N5T8oFSaxGEJhL0CJQuYYdj0jekwNRpkOf29RxPE4BCzD9g-XHdsGhYbW-c6DBruvU4dl-YCoKnJU7AT2WPe1rBVj4vEwIh1DHjQBNQLSyq1ncGSIwsqahPqO6Rw6DvHkUI6K7QdBIqOTug69e80CQ==&uniplatform=NZKPT&language=CHS)
 
 杜豫川, 岳光华, **刘成龙\***, 李峰, 蔡文才
 
@@ -164,9 +164,9 @@ Zihang Weng, Hui Xiang, Yuchao Lin, **Chenglong Liu**, Difei Wu, Yuchuan Du
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='images/12.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-`封面热点论文`中国公路学报
+中国公路学报
 
-[高速路网不停车收费车道优化布设方法](https://kns.cnki.net/kcms2/article/abstract?v=N5T8oFSaxGE5KG9OjMOws3MUL1wgDrlkfSj89QJrhfeWkrI2EhlezFAV_l19Bb0k_UV3okDPJjxg-14f6Anke1h9s5ZHoqwCwOJ2yJ-ORt72EXFVJYd2sDNG5eSZWZGdQOs_aPtVVCseO6NWVDoqeQ==&uniplatform=NZKPT&language=CHS)
+`封面热点论文`[高速路网不停车收费车道优化布设方法](https://kns.cnki.net/kcms2/article/abstract?v=N5T8oFSaxGE5KG9OjMOws3MUL1wgDrlkfSj89QJrhfeWkrI2EhlezFAV_l19Bb0k_UV3okDPJjxg-14f6Anke1h9s5ZHoqwCwOJ2yJ-ORt72EXFVJYd2sDNG5eSZWZGdQOs_aPtVVCseO6NWVDoqeQ==&uniplatform=NZKPT&language=CHS)
 
 **刘成龙**, 陶莎, 赵聪, 暨育雄, 杜豫川
 
@@ -186,9 +186,9 @@ International Journal of Pavement Engineering
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='images/14.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-`2023年度优秀论文、封面热点论文、高被引、高下载、高影响力论文`中国公路学报
+中国公路学报
 
-[新一代智慧高速公路系统架构设计](https://kns.cnki.net/kcms2/article/abstract?v=N5T8oFSaxGGw0wHSNKMvp4f2OMptvhq4A-cUocNQMXwE6VPu6ym5UDzZd4tu70FeQSz2xd43pjx2YQREQL0Nh03GipYcCuM3qDjGgRjcLT6OoTePi95LBVT4vxw7kXXlKSYi8sLU0AitgIHkw0EK9w==&uniplatform=NZKPT&language=CHS)
+`2023年度优秀论文、封面热点论文、高被引、高下载、高影响力论文`[新一代智慧高速公路系统架构设计](https://kns.cnki.net/kcms2/article/abstract?v=N5T8oFSaxGGw0wHSNKMvp4f2OMptvhq4A-cUocNQMXwE6VPu6ym5UDzZd4tu70FeQSz2xd43pjx2YQREQL0Nh03GipYcCuM3qDjGgRjcLT6OoTePi95LBVT4vxw7kXXlKSYi8sLU0AitgIHkw0EK9w==&uniplatform=NZKPT&language=CHS)
 
 杜豫川, **刘成龙\***, 吴荻非, 赵聪
 
@@ -208,9 +208,9 @@ Zihang Weng, Gulnigar Ablat, Difei Wu, **Chenglong Liu\***, Feng Li, Yuchuan Du,
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='images/16.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-`ESI(1%)`Transportation Research Part C
+Transportation Research Part C
 
-[Comfortable and energy-efficient speed control of autonomous vehicles on rough pavements using deep reinforcement learning](https://www.sciencedirect.com/science/article/pii/S0968090X21004757)
+`ESI(1%)`[Comfortable and energy-efficient speed control of autonomous vehicles on rough pavements using deep reinforcement learning](https://www.sciencedirect.com/science/article/pii/S0968090X21004757)
 
 Yuchuan Du, Jing Chen, Cong Zhao, **Chenglong Liu**, Feixiong Liao, Ching-Yao Chan
 
@@ -219,9 +219,9 @@ Yuchuan Du, Jing Chen, Cong Zhao, **Chenglong Liu**, Feixiong Liao, Ching-Yao Ch
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021</div><img src='images/17.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-`ESI (1%), ESI(0.1%), COTA Best Presetation Award, 交通部重大科技成果(论文类)`Transportation Research Part C: Emerging Technologies
+Transportation Research Part C: Emerging Technologies
 
-[Large-scale pavement roughness measurements with vehicle crowdsourced data using semi-supervised learning](https://www.sciencedirect.com/science/article/pii/S0968090X21000784)
+`ESI (1%), ESI(0.1%), COTA Best Presetation Award, 交通部重大科技成果(论文类)`[Large-scale pavement roughness measurements with vehicle crowdsourced data using semi-supervised learning](https://www.sciencedirect.com/science/article/pii/S0968090X21000784)
 
 **Chenglong Liu**, Difei Wu, Yishun Li, Yuchuan Du
 
