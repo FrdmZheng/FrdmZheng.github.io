@@ -208,7 +208,7 @@ Zihang Weng, Gulnigar Ablat, Difei Wu, **Chenglong Liu\***, Feng Li, Yuchuan Du,
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='images/16.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-Transportation Research Part C
+Transportation Research Part C`SCI`
 
 [Comfortable and energy-efficient speed control of autonomous vehicles on rough pavements using deep reinforcement learning](https://www.sciencedirect.com/science/article/pii/S0968090X21004757)
 
