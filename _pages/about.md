@@ -1,4 +1,4 @@
-![D0)Q$W1@ZP$7W@NTBPT8B}J](https://github.com/Charley33301/Charley33301.github.io/assets/161674990/a274cccf-4e6a-4978-8ee9-ad3dc77bd244)---
+---
 permalink: /
 title: ""
 excerpt: ""
