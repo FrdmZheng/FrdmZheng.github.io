@@ -23,12 +23,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "刘成龙"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "研究方向：智能交通基础设施、路面性能检测与评估、养护决策与优化等"
-  location         : "地址 同济大学交通学院A414"
+  bio              : "副教授"
+  location         : "同济大学交通学院A414"
+  interest         : "研究方向：智能交通基础设施、路面性能检测与评估、养护决策与优化等"
   employer         :
   pubmed           : 
   googlescholar    :  # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "邮箱 14lcl_tj@tongji.edu.cn"
+  email            : "14lcl_tj@tongji.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
