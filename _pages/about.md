@@ -81,13 +81,13 @@ We proposed a speed control framework on rough pavement based on the crowdsource
 - ``中国公路学报 2023`` 探地雷达多特征融合的城市空洞自动识别方法研究, 杜豫川, 岳光华, **刘成龙**, 李峰, 蔡文才
 
 # 📚 Patents
-- 一种基于关联规则分析的道路深层病害预警方法	ZL202110215728.6
-- 一种振动式路面平整度测试车的标定方法	ZL202110661532.X
+- 🔥`New！`基于多车众筹振动数据的路网级平整度检测方法	ZL202210144895.0
+- 🔥`New！`一种考虑碳排放的路网级全生命养护优化方法	ZL202210139768.1
+- 🔥`New！`一种基于关联规则分析的道路深层病害预警方法	ZL202110215728.6
+- 🔥`New！`一种振动式路面平整度测试车的标定方法	ZL202110661532.X
+- 🔥`New！`一种基于摩擦接触面预估的路面抗滑性能评价方法	ZL202110121825.X
 - 一种路面损伤快速检测和自然数据集构建方法	ZL202110073970.4
 - 一种基于多源特征融合的路面损伤数据时空分析方法	ZL202110074435.0
-- 一种基于摩擦接触面预估的路面抗滑性能评价方法	ZL202110121825.X
-- 一种考虑碳排放的路网级全生命养护优化方法	ZL202210139768.1
-- 基于多车众筹振动数据的路网级平整度检测方法	ZL202210144895.0
 - A method for leakage detection of underground corridor based on static infrared thermal image processing(GB2569751)
 - Comfort-based self-driving planning method(US 11,447,150 B2)
 - Method of controlling automated driving speed based on comfort level(WO/2018/122586)
