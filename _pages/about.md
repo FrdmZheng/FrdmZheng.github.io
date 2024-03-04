@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-刘成龙，男，副教授，同济大学交通科学与技术研究院副院长。入选上海市启明星科技人才、中国公路学会青年托举人才、上海35人青年科技引领计划等。担任联合国亚太经济社会组织（ESCAP）咨询专家、世界交通运输大会(WTC)数字化运维技术委员会秘术委员 、上海市公路学会养护与管理专委会委员等。主要从事道路工程与信息工程交叉方向研究，建立了路面行驶质量轻量化检测技术与高频多维的道路服役状态精细化评价方法，提出了基于细粒度时空数据的道路基础设施管养优化理论，推动了以“轻量化快速巡检”为特征的道路设施数字化管养技术转型。研究成果在AIC、Transport Res. C、IEEE Trans. ITS、中国公路学报等高水平期刊发表研究论文50余篇，多项研究成果相继被遴选为IEEE ITSM封面论文、ESI高被引论文/热点论文、中国公路学报年度优秀论文、交通部重大科技成果(论文类)、COTA Best Presentation Award等。相关成果获授权中国、美国、英国、国际专利30余项，荣获中国专利优秀奖、上海市百强高价值专利等，并实现了产业化应用，覆盖全国二十余省份应用里程超40万公里。作为主要完成人获得上海市科技进步一等奖、中国公路学会科学技术特等奖/一等奖、中国交通运输协会科学进步一等奖、中国发明协会发明创新一等奖等9项。
+刘成龙，男，副教授，同济大学交通科学与技术研究院副院长。入选上海市启明星科技人才、中国公路学会青年托举人才、上海35人青年科技引领计划等。担任联合国亚太经济社会组织（ESCAP）咨询专家、世界交通运输大会(WTC)数字化运维技术委员会秘术委员 、上海市公路学会养护与管理专委会委员。主要从事道路工程与信息工程交叉方向研究，建立了路面行驶质量轻量化检测技术与高频多维的道路服役状态精细化评价方法，提出了基于细粒度时空数据的道路基础设施管养优化理论，推动了以“轻量化快速巡检”为特征的道路设施数字化管养技术转型。研究成果在AIC、Transport Res. C、IEEE Trans. ITS、中国公路学报等高水平期刊发表研究论文50余篇，多项研究成果相继被遴选为IEEE ITSM封面论文、ESI高被引论文/热点论文、中国公路学报年度优秀论文、交通部重大科技成果(论文类)、COTA Best Presentation Award等。相关成果获授权中国、美国、英国、国际专利30余项，荣获中国专利优秀奖、上海市百强高价值专利，并实现了产业化应用，覆盖全国二十余省份应用里程超40万公里。作为主要完成人获得上海市科技进步一等奖、中国公路学会科学技术特等奖/一等奖、中国交通运输协会科学进步一等奖、中国发明协会发明创新一等奖等9项。
 
 # 📖 Educations
 - *2010.09 - 2014.06*, [同济大学](https://www.tongji.edu.cn/), 交通工程, 学士.
@@ -28,7 +28,7 @@ redirect_from:
 - *2019.12 - 2022.12*, [同济大学](https://www.tongji.edu.cn/), 交通运输工程学院, 博士后.
 - *2021.05 - 至今*,    [同济大学](https://www.tongji.edu.cn/), 交通科学与技术研究院, 副教授.
 - *2023.02 - 至今*   , [同济大学](https://www.tongji.edu.cn/), 交通运输工程学院, 副教授.
-- *2024.01 - 至今* ,   [同济大学](https://www.tongji.edu.cn/), 交通运输工程学院, 副院长.
+- *2024.01 - 至今* ,   [同济大学](https://www.tongji.edu.cn/), 交通科学与技术研究院, 副院长.
 
 # 🔍 Projects
 - 🔥`New！`国家重点研发计划(2023), 智能网联道路交通系统的能源自洽技术, 子课题主持
@@ -229,16 +229,17 @@ Transportation Research Part C: Emerging Technologies
 </div>
 
 # 📚 Patents
+- 🔥`New！`A method for leakage detection of underground corridor based on static infrared thermal image processing(GB2569751)
+- 🔥`New！`Comfort-based self-driving planning method(US 11,447,150 B2)
+- Method of controlling automated driving speed based on comfort level(WO/2018/122586)
 - 🔥`New！`基于多车众筹振动数据的路网级平整度检测方法	ZL202210144895.0
 - 🔥`New！`一种考虑碳排放的路网级全生命养护优化方法	ZL202210139768.1
-- 🔥`New！`一种基于关联规则分析的道路深层病害预警方法	ZL202110215728.6
-- 🔥`New！`一种振动式路面平整度测试车的标定方法	ZL202110661532.X
-- 🔥`New！`一种基于摩擦接触面预估的路面抗滑性能评价方法	ZL202110121825.X
+- 一种基于关联规则分析的道路深层病害预警方法	ZL202110215728.6
+- 一种振动式路面平整度测试车的标定方法	ZL202110661532.X
+- 一种基于摩擦接触面预估的路面抗滑性能评价方法	ZL202110121825.X
 - 一种路面损伤快速检测和自然数据集构建方法	ZL202110073970.4
 - 一种基于多源特征融合的路面损伤数据时空分析方法	ZL202110074435.0
-- A method for leakage detection of underground corridor based on static infrared thermal image processing(GB2569751)
-- Comfort-based self-driving planning method(US 11,447,150 B2)
-- Method of controlling automated driving speed based on comfort level(WO/2018/122586)
+
 
 # 🏆 Honors and Awards
 🏅 Honors
