@@ -11,7 +11,7 @@
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
-    {% if author.bio2 %}<p class="author__bio2">{{ author.bio2 }}</p>{% endif %}
+    {% if author.bio2 %}<p class="author__bio2" style="white-space: normal; margin-bottom: 0; font-size: 13px;">{{ author.bio2 }}</p>{% endif %}
   </div>
 
   <div style="margin-top: 12px;" class="author__urls-wrapper">
@@ -21,10 +21,19 @@
         <li><div style="white-space: normal; margin-bottom: 0;">{{ site.description }}</div></li>
       {% endif %}
       {% if site.description1 %}
-        <li><div style="white-space: normal; margin-bottom: 0; font-size: 13px;">{{ site.description1 }}</div></li>
+        <li><div style="white-space: normal; margin-bottom: 0;">{{ site.description1 }}</div></li>
+      {% endif %}
+      {% if site.description11 %}
+        <li><div style="white-space: normal; margin-bottom: 0;">{{ site.description1 }}</div></li>
       {% endif %}
       {% if site.description2 %}
-        <li><div style="white-space: normal; margin-bottom: 0; font-size: 13px;">{{ site.description2 }}</div></li>
+        <li><div style="white-space: normal; margin-bottom: 0;">{{ site.description2 }}</div></li>
+      {% endif %}
+      {% if site.description21 %}
+        <li><div style="white-space: normal; margin-bottom: 0;">{{ site.description1 }}</div></li>
+      {% endif %}
+      {% if site.description3 %}
+        <li><div style="white-space: normal; margin-bottom: 0;">{{ site.description1 }}</div></li>
       {% endif %}
       {% if author.interest %}
         <div style='display: flex; margin-top: 8px;'><i class="fa fa-fw fa-graduation-cap" aria-hidden="true" style="margin-top: 4px;"></i><div style='width: 16px; flex-shrink:0;'></div>{{ author.interest }}</div>
