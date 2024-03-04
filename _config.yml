@@ -7,10 +7,10 @@
 
 # Site Settings
 title                    : "刘成龙"
-description              : #"同济大学"
-description1             : #"交通运输工程学院副教授"
-description2             : #"交通科学与技术研究院副院长"
-description3             : #"STEP课题组"
+description              : "同济大学"
+description1             : "交通运输工程学院副教授"
+description2             : "交通科学与技术研究院副院长"
+description3             : "STEP课题组"
 repository               : "Charley33301/Charley33301.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -26,10 +26,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "刘成龙"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "同济大学"
-  bio1             : "交通运输工程学院副教授"
-  bio2             : "交通科学与技术研究院副院长"
-  bio3             : "STEP课题组"
+  bio              : 
+  bio1             : 
+  bio2             : 
+  bio3             : 
   location         : "通达馆A414"
   interest         : 
   employer         : 
