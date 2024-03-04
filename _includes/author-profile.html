@@ -10,7 +10,7 @@
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
-    {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+    {% if author.bio %}<p class="author__bio" style ="font-size: 13px;">{{ author.bio }}</p>{% endif %}
   </div>
 
   <div style="margin-top: 12px;" class="author__urls-wrapper">
@@ -20,7 +20,7 @@
         <li><div style="white-space: normal; margin-bottom: 0;">{{ site.description }}</div></li>
       {% endif %}
       {% if site.description1 %}
-        <li><div style="white-space: normal; margin-bottom: 0;font-size: 13px;">{{ site.description1 }}</div></li>
+        <li><div style="white-space: normal; margin-bottom: 0;">{{ site.description1 }}</div></li>
       {% endif %}
       {% if site.description2 %}
         <li><div style="white-space: normal; margin-bottom: 0;">{{ site.description2 }}</div></li>
