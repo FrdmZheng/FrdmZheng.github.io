@@ -65,7 +65,18 @@ IEEE Transactions on Intelligent Transportation Systems
 
 🔥`New！`[Engineering-Adaptive Pavement Maintenance Decision-Making Model: A Reinforcement Learning Approach From Expert Feedback](https://ieeexplore.ieee.org/abstract/document/10934967)
 
-Wenyuan Cai, Yuchuan Du, Difei Wu, Zihang Weng, **Chenglong Liu**
+Wenyuan Cai, Yuchuan Du, Difei Wu, Zihang Weng, **Chenglong Liu\***
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='images/19.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Sensors
+
+🔥`New！`[A Comprehensive Framework for Evaluating Cycling Infrastructure: Fusing Subjective Perceptions with Objective Data](https://doi.org/10.3390/s25041168)
+
+Kefei Tian, Yifan Zheng, Zhongyu Sun, Zishun Yin, Kai Zhu, **Chenglong Liu\***
 
 </div>
 </div>
