@@ -59,6 +59,17 @@ redirect_from:
 
 # 📝 Publications 
 📃 Papers
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='images/18.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+IEEE Transactions on Intelligent Transportation Systems
+
+🔥`New！`[Engineering-Adaptive Pavement Maintenance Decision-Making Model: A Reinforcement Learning Approach From Expert Feedback](https://ieeexplore.ieee.org/abstract/document/10934967)
+
+Wenyuan Cai, Yuchuan Du, Difei Wu, Zihang Weng, **Chenglong Liu**
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 International Journal of Pavement Engineering
