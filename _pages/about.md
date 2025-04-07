@@ -81,6 +81,39 @@ Kefei Tian, Yifan Zheng, Zhongyu Sun, Zishun Yin, Kai Zhu, **Chenglong Liu\***
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='images/20.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Case Studies in Construction Materials
+
+🔥`New！`[Comprehensive review on greenhouse gas emission assessment over the full life-cycle of pavement](https://doi.org/10.1016/j.cscm.2025.e04407)
+
+Yuchuan Du, Ziyue Gao, **Chenglong Liu\***, Zihang Weng\*, Xiangyu Ren, Wenxiang Li
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='images/21.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Measurement
+
+🔥`New！`[Enhanced GPR signal interpretation via deep learning fusion for unveiling road subsurface conditions](https://doi.org/10.1016/j.measurement.2025.117007)
+
+Shan Zhong, Difei Wu, Yuchuan Du, Yu Yan, **Chenglong Liu**, Zihang Weng, Guoqing Wang, Fei Xu
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='images/22.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Computer‐Aided Civil and Infrastructure Engineering
+
+🔥`New！`[A cooperative methodology for multi‐roller automation in pavement construction considering trajectory planning and collaborative operation](https://doi.org/10.1111/mice.13347)
+
+Difei Wu, Sheng Zhong, Man Io Leong, Yishun Li, Boyuan Tian, **Chenglong Liu**, Yuchuan Du
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 International Journal of Pavement Engineering
