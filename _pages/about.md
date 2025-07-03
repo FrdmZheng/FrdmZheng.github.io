@@ -25,7 +25,7 @@ redirect_from:
 # 📝 Publications 
 📃 Papers
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='./images/1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='../images/19.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Sensors
 
