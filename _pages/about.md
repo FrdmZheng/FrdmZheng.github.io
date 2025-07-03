@@ -24,7 +24,7 @@ redirect_from:
 - *2024.09 - now*, [同济大学](https://www.tongji.edu.cn/), 人工智能, 辅修学士.
 
 # 📝 Publications 
-📃 Papers
+📃 Journal Papers
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='../images/19.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -40,6 +40,9 @@ Kefei Tian, **Yifan Zheng**, Zhongyu Sun, Zishun Yin, Kai Zhu, Chenglong Liu\*
 
 # 🏆 Honors and Awards
 🏅 Honors
+- 同济大学优秀学生（2023）
+- 同济大学一等奖学金（2023）
+🏅 Awards
 - 🔥`New！`“船视宝”杯第二十届全国大学生交通运输科技大赛**二等奖**（2025）
 - 全国大学生数学建模竞赛**上海市二等奖**（2024）
 - 上海市“林龙照明杯”交通运输科技大赛**二等奖**（2024）
