@@ -42,6 +42,7 @@ Kefei Tian, **Yifan Zheng**, Zhongyu Sun, Zishun Yin, Kai Zhu, Chenglong Liu\*
 🏅 Honors
 - 同济大学优秀学生（2023）
 - 同济大学一等奖学金（2023）
+
 🏅 Awards
 - 🔥`New！`“船视宝”杯第二十届全国大学生交通运输科技大赛**二等奖**（2025）
 - 全国大学生数学建模竞赛**上海市二等奖**（2024）
