@@ -6,12 +6,12 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "刘成龙"
+title                    : "郑亦凡"
 description              : "同济大学"
-description1             : "交通科学与技术研究院 副院长"
-description5             : "STEP课题组"
-repository               : "Charley33301/Charley33301.github.io"
-google_scholar_stats_use_cdn : true
+description1             : ""
+description5             : ""
+repository               : "frdmzheng/frdmzheng.github.io"
+google_scholar_stats_use_cdn : false # true
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -24,18 +24,18 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "刘成龙"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/150_200.png"
   bio              : 
   bio1             : 
   bio2             : 
   bio3             : 
-  location         : "通达馆A221"
+  location         : "上海, 中国"
   interest         : 
   employer         : 
   pubmed           : 
   googlescholar    :  # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  phone            : "021-69585712"
-  email            : "14lcl_tj@tongji.edu.cn"
+  phone            : ""
+  email            : "2253783@tongji.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -44,7 +44,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "FrdmZheng" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
@@ -56,7 +56,7 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
+  steam            : "ziyoufeng"
   tumblr           :
   twitter          : 
   vine             :
