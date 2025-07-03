@@ -21,6 +21,7 @@ redirect_from:
 
 # 📖 Educations
 - *2022.09 - now*, [同济大学](https://www.tongji.edu.cn/), 交通运输, 学士.
+- *2024.09 - now*, [同济大学](https://www.tongji.edu.cn/), 人工智能, 辅修学士.
 
 # 📝 Publications 
 📃 Papers
@@ -39,8 +40,11 @@ Kefei Tian, **Yifan Zheng**, Zhongyu Sun, Zishun Yin, Kai Zhu, Chenglong Liu\*
 
 # 🏆 Honors and Awards
 🏅 Honors
-- 🔥`New！`“船视宝”杯第二十届全国大学生交通运输科技大赛**二等奖**（2025）《“智绘骑途，行启未来”--多模态数据融合的城市慢行交通骑行友好性评价方法》
-- 全国大学生数学建模竞赛**上海市 二等奖**（2024）
+- 🔥`New！`“船视宝”杯第二十届全国大学生交通运输科技大赛**二等奖**（2025）
+- 全国大学生数学建模竞赛**上海市二等奖**（2024）
+- 上海市“林龙照明杯”交通运输科技大赛**二等奖**（2024）
+- 同济大学数学建模竞赛**一等奖**（2024）
+
 
 # 🔍 Links
  [Wechat](../images/WeChatQR.png) / [CSDN](https://blog.csdn.net/m0_74423692?spm=1000.2115.3001.10640)
