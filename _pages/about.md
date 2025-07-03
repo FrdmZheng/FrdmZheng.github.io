@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-郑亦凡，男，同济大学交通学院本科三年级在读。有时候会放一些东西在[Github](https://github.com/FrdmZheng)和[CSDN](https://blog.csdn.net/m0_74423692?spm=1000.2115.3001.10640)上。
+郑亦凡，男，[同济大学交通学院](https://tjjt.tongji.edu.cn/)本科三年级在读。有时候会放一些东西在[Github](https://github.com/FrdmZheng)和[CSDN](https://blog.csdn.net/m0_74423692?spm=1000.2115.3001.10640)上。
 
 # 📖 Educations
 - *2022.09 - now*, [同济大学](https://www.tongji.edu.cn/), 交通运输, 学士.
