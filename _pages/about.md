@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-郑亦凡，男，同济大学交通学院本科三年级在读。
+郑亦凡，男，同济大学交通学院本科三年级在读。有时候会放一些东西在Github和CSDN上。
 
 # 📖 Educations
 - *2022.09 - now*, [同济大学](https://www.tongji.edu.cn/), 交通运输, 学士.
