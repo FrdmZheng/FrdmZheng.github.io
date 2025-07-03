@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "刘成龙"
-  avatar           : "images/150_200.png"
+  name             : "郑亦凡"
+  avatar           : "images/150_200.jpg"
   bio              : 
   bio1             : 
   bio2             : 
@@ -34,8 +34,8 @@ author:
   employer         : 
   pubmed           : 
   googlescholar    :  # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  phone            : ""
-  email            : "2253783@tongji.edu.cn"
+  phone            :  # ""
+  email            :  "2253783@tongji.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -44,7 +44,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "FrdmZheng" # e.g., "github username"
+  github           : # "FrdmZheng" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
@@ -56,7 +56,7 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            : "ziyoufeng"
+  steam            : # "ziyoufeng"
   tumblr           :
   twitter          : 
   vine             :
