@@ -51,5 +51,5 @@ Kefei Tian, **Yifan Zheng**, Zhongyu Sun, Zishun Yin, Kai Zhu, Chenglong Liu\*
 
 
 # 🔍 Links
- [Wechat](../images/WeChatQR.png) / [CSDN](https://blog.csdn.net/m0_74423692?spm=1000.2115.3001.10640) / [CV](../简历.pdf)
+ [Wechat](../images/WeChatQR.png) / [CSDN](https://blog.csdn.net/m0_74423692?spm=1000.2115.3001.10640) / [CV](../简历.pdf) / [Github](https://github.com/FrdmZheng)
 
